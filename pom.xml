@@ -3,5 +3,5 @@
     <groupId>my.com.maha</groupId>
     <artifactId>mahaproject</artifactId>
     <packaging>jar</packaging>
-    <version>9.0</version>
+    <version>10.0</version>
 </project>
